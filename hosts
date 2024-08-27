@@ -32,7 +32,7 @@
 0.0.0.0 s0.2mdn.net
 0.0.0.0 securepubads.g.doubleclick.ne
 0.0.0.0 spclient.wg.spotify.com
-0.0.0.0 sto3.spotify.com
+# 0.0.0.0 sto3.spotify.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 upgrade.spotify.com
 0.0.0.0 v.jwpcdn.com
